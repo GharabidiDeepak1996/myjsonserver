@@ -1,0 +1,9 @@
+{
+  "event": [
+    { "id": 1, "event_name": "Diwali Event","event_timing": "5:00 pm to 9:00 pm","event_price": 400 },
+    { "id": 2, "event_name": "Holi Event","event_timing": "5:00 pm to 9:00 pm","event_price": 500 },
+    { "id": 3, "event_name": "rk Event","event_timing": "5:00 pm to 9:00 pm","event_price": 600 },
+    { "id": 4, "event_name": "Diwali Event","event_timing": "5:00 pm to 9:00 pm","event_price": 800 }
+  ],
+
+}
