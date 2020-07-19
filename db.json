@@ -1,9 +1,14 @@
 {
-  "event": [
-    { "id": 1, "event_name": "Diwali Event","event_timing": "5:00 pm to 9:00 pm","event_price": 400 },
-    { "id": 2, "event_name": "Holi Event","event_timing": "5:00 pm to 9:00 pm","event_price": 500 },
-    { "id": 3, "event_name": "rk Event","event_timing": "5:00 pm to 9:00 pm","event_price": 600 },
-    { "id": 4, "event_name": "Diwali Event","event_timing": "5:00 pm to 9:00 pm","event_price": 800 }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
-
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
